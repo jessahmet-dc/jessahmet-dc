@@ -1,7 +1,7 @@
 
 Hi 👋🏼!
 
-I'm Jess, a Content Developer at [DataCamp](https://datacamp.com/) <img height="15" src="https://www.svgrepo.com/show/349332/datacamp.svg">.
+I'm Jess, a Curriculum Manager at [DataCamp](https://datacamp.com/) <img height="15" src="https://www.svgrepo.com/show/349332/datacamp.svg">.
 
 Since 2017, I have worked in the data & analytics space. Most of my career to date has been spent as a BI/Data Analyst but most recently I joined DataCamp to help expand their growing BI curriculum. This has enabled me to enhance my skills further whilst delivering courses to learners across the globe. 
 
